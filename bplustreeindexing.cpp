@@ -315,24 +315,3 @@ void tree::insert (int key)
 	}
 	size++;
 }
-
-	// parent->insert(100);
-	// parent->insert(200);
-	// parent->insert(300);
-	// parent->insert(400);
-	// parent->display();
-	// parent->insert(500);
-	// parent->display();
-	// parent->insert(600);
-	// parent->insert(700);
-	// parent->display();
-	// parent->insert(800);
-	// parent->insert(150);
-	// parent->insert(350);
-	// parent->insert(250);
-	// parent->display();
-	// parent->insert(251);
-	// parent->display();
-	// parent->insert(252);
-	// parent->insert(253);
-	// parent->display();
